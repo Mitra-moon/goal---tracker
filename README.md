@@ -46,6 +46,17 @@ If a day is missed, streak resets
 
 📸.Screenshots (Desktop + Mobile)
 Desktop:
-<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/d0e12b93-37f8-47d1-8522-d8f3b45130a1" />
+<img width="1881" height="914" alt="image" src="https://github.com/user-attachments/assets/ea82aece-388e-42d6-864f-77df8e6ff03c" />
+<img width="1901" height="875" alt="image" src="https://github.com/user-attachments/assets/8f770551-8a05-4c8a-9e6c-f1c84912c2c9" />
+<img width="1872" height="886" alt="image" src="https://github.com/user-attachments/assets/9dfb4d41-7b57-424a-be39-dc2e5dc247ba" />
+<img width="1900" height="895" alt="image" src="https://github.com/user-attachments/assets/5f4575f7-2457-493e-8cc4-393aa8f9460b" />
+<img width="1913" height="898" alt="image" src="https://github.com/user-attachments/assets/a7331398-1d8e-46b9-9fa4-d1e40bf0778e" />
+<img width="1876" height="865" alt="image" src="https://github.com/user-attachments/assets/c9d01016-9088-4cb3-9797-9864523a7aee" />
+
 Mobile:
-<img width="713" height="926" alt="image" src="https://github.com/user-attachments/assets/06e55973-a1cb-426a-882b-cfbfed8d94df" />
+<img width="709" height="893" alt="image" src="https://github.com/user-attachments/assets/1b70cf3f-aebe-4548-9b76-852d57a1444a" />
+<img width="701" height="884" alt="image" src="https://github.com/user-attachments/assets/b7abbb81-85ce-454e-b6b1-9e183830af74" />
+<img width="669" height="879" alt="image" src="https://github.com/user-attachments/assets/2d9d4704-f93c-4e1b-91b4-d8a138e32b58" />
+<img width="718" height="887" alt="image" src="https://github.com/user-attachments/assets/b111c434-0b94-4a6e-925f-26434e9a84a4" />
+<img width="727" height="872" alt="image" src="https://github.com/user-attachments/assets/a2422c35-a7a1-4b7d-8129-c9261762da54" />
+<img width="731" height="865" alt="image" src="https://github.com/user-attachments/assets/f2e278d2-1744-462d-bedd-165fdc13c9f3" />
